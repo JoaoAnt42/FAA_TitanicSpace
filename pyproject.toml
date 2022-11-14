@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "faa"
+version = "0.1.0"
+description = ""
+authors = ["Joao Antonio <joaoantant@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+xgboost = "^1.7.1"
+eli5 = "^0.13.0"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
