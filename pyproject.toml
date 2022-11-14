@@ -10,6 +10,9 @@ python = "^3.10"
 xgboost = "^1.7.1"
 eli5 = "^0.13.0"
 jupyter = "^1.0.0"
+lightgbm = "^3.3.3"
+lazypredict = "^0.2.12"
+plotly = "^5.11.0"
 
 
 [build-system]
