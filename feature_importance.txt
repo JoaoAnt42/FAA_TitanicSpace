@@ -1,0 +1,17 @@
+0.061   RoomService
+0.059   FoodCourt
+0.051   ShoppingMall
+0.069   Spa
+0.063   VRDeck
+0.093   CabinNumber
+0.037   HomePlanet
+0.174   CryoSleep
+0.024   Destination
+0.003   VIP
+0.09    Group
+0.035   Group_id
+0.08    Surname
+0.054   Deck
+0.018   CabinSide
+0.066   age
+0.022   total
