@@ -7,7 +7,7 @@ __pycache__/
 # Env files and Cat Boost
 env_FAA/*
 catboost_info/*
-
+*.zip
 
 # C extensions
 *.so
