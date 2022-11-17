@@ -7,5 +7,4 @@ seaborn
 sklearn
 openpyxl
 seaborn
-xgboost
-eli5
+catboost
